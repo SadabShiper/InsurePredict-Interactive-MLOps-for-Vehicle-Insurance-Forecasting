@@ -156,6 +156,3 @@ Add `static` and `template` directories for web UI.
 - Data Ingestion ➔ Data Validation ➔ Data Transformation
 - Model Training ➔ Model Evaluation ➔ Model Deployment
 - CI/CD Automation with GitHub Actions, Docker, AWS EC2, and ECR
-
-## 💬 Connect
-If you found this project helpful or have any questions, feel free to reach out!
